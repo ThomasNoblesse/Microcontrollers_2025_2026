@@ -1,0 +1,13 @@
+dependencies:
+
+  myGPIO:
+    path: Components/myGPIO
+    git: git@github.com:ThomasNoblesse/Microcontrollers_2025_2026.git
+
+  myADC:
+    path: Components/myADC
+    git: git@github.com:ThomasNoblesse/Microcontrollers_2025_2026.git
+
+  myPWM:
+    path: Components/myPWM
+    git: git@github.com:ThomasNoblesse/Microcontrollers_2025_2026.git

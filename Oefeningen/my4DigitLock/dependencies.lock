@@ -1,0 +1,36 @@
+dependencies:
+  idf:
+    source:
+      type: idf
+    version: 5.5.3
+  myADC:
+    component_hash: 9f3acc94fac94e6b31ae00118a81f25cb1f77437501443b71f0dd3a15b36e498
+    dependencies: []
+    source:
+      git: git@github.com:ThomasNoblesse/Microcontrollers_2025_2026.git
+      path: Components/myADC
+      type: git
+    version: 71fde053f51a392ff0fca9e0600f5ef4ead63c78
+  myGPIO:
+    component_hash: 5ec6d188b3a3709b257743c20e655f1cb94eeafe0601060c451d41661d26a766
+    dependencies: []
+    source:
+      git: git@github.com:ThomasNoblesse/Microcontrollers_2025_2026.git
+      path: Components/myGPIO
+      type: git
+    version: 71fde053f51a392ff0fca9e0600f5ef4ead63c78
+  myPWM:
+    component_hash: a57267d93b2d5be7e1777af4f2d5b3255206eca9dd63b7f7b0ef97231046c315
+    dependencies: []
+    source:
+      git: git@github.com:ThomasNoblesse/Microcontrollers_2025_2026.git
+      path: Components/myPWM
+      type: git
+    version: 71fde053f51a392ff0fca9e0600f5ef4ead63c78
+direct_dependencies:
+- myADC
+- myGPIO
+- myPWM
+manifest_hash: 5cbadc1f18af010ff59d87e060c30a8c9703e44b1825c4cf06859face7f38e02
+target: esp32
+version: 2.0.0

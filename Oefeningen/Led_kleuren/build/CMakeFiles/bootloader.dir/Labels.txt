@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+C:/Microcontrollers_25_26/Oefeningen/Led_kleuren/build/CMakeFiles/bootloader
+C:/Microcontrollers_25_26/Oefeningen/Led_kleuren/build/CMakeFiles/bootloader.rule
+C:/Microcontrollers_25_26/Oefeningen/Led_kleuren/build/CMakeFiles/bootloader-complete.rule
+C:/Microcontrollers_25_26/Oefeningen/Led_kleuren/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+C:/Microcontrollers_25_26/Oefeningen/Led_kleuren/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/Microcontrollers_25_26/Oefeningen/Led_kleuren/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/Microcontrollers_25_26/Oefeningen/Led_kleuren/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/Microcontrollers_25_26/Oefeningen/Led_kleuren/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/Microcontrollers_25_26/Oefeningen/Led_kleuren/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/Microcontrollers_25_26/Oefeningen/Led_kleuren/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
