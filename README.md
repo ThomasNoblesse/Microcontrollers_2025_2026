@@ -1,0 +1,5 @@
+dependencies:
+
+  myGPIO:
+    path:  Components/myGPIO
+    git:   git@github.com:ThomasNoblesse/Microcontrollers_2025_2026.git
