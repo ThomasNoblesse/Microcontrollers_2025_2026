@@ -1,0 +1,5 @@
+dependencies:
+
+  myUART:
+    path:  Components/myUART
+    git:   git@github.com:KNaelaerts/ESP32_Periferie.git

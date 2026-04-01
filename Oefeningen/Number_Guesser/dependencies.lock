@@ -1,0 +1,18 @@
+dependencies:
+  idf:
+    source:
+      type: idf
+    version: 5.5.3
+  myGPIO:
+    component_hash: 5ec6d188b3a3709b257743c20e655f1cb94eeafe0601060c451d41661d26a766
+    dependencies: []
+    source:
+      git: git@github.com:ThomasNoblesse/Microcontrollers_2025_2026.git
+      path: Components/myGPIO
+      type: git
+    version: 75c6745b655af8966158b5ca714526b49e8fd403
+direct_dependencies:
+- myGPIO
+manifest_hash: ddd0ee8b4fae41694f0b1230d83df90c442825d25e2da760d0d9f25688d82ede
+target: esp32
+version: 2.0.0
